@@ -1,6 +1,6 @@
 # Matopeli
 
-Klassikko matopeli, jonka tein opinnoissa C#:lla. Käyttää Jypeli kirjastoa.
+Klassikko matopeli, jonka tein opinnoissa C#:lla. Käyttää Jypeli kirjastoa. Ei ole enää ylläpidetty.
 
 ## Kuvaus
 Matopeli on klassinen peli, jossa ohjaat matoa ja yrität syödä ruokaa kasvattaaksesi sen pituutta. Peli on toteutettu C#:lla. Valitettavasti koodi on vanhentunutta ja yhteensopivaa Jypeli-kirjastoa tai ohjeita ei ole enää saatavilla.
